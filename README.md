@@ -1,6 +1,6 @@
 # **Pixels CRM API Features**
 
--   The Pixels CRM API is a generic REST API that includes the following features
+-   The Pixels CRM API is a REST API that includes the following features
 
     -   `User account` CRUD functionality.
     -   `Roles` CRUD functionality - `Administrator`, `Super User`, `and User`.
@@ -17,9 +17,13 @@
 
 &nbsp;
 
+### **!! Please keep in mind this is an API only. No frontend is included !!**
+
+&nbsp;
+
 # **Full API Documentation**
 
-### **Wiki**: https://github.com/Pixel-Fix/pixelscrm-api-documentation/wiki
+## **Wiki**: https://github.com/Pixel-Fix/pixelscrm-api-documentation/wiki
 
 &nbsp;
 
