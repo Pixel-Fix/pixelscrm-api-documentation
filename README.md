@@ -19,7 +19,7 @@
 
 # **Full API Documentation**
 
-## **Wiki**: https://github.com/Pixel-Fix/pixelscrm-api-documentation/wiki
+### **Wiki**: https://github.com/Pixel-Fix/pixelscrm-api-documentation/wiki
 
 &nbsp;
 
