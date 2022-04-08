@@ -58,5 +58,5 @@
 -   Rename the `.env.example` to `.env`
 -   Run `composer install` from within the project directory.
 -   Run `php artisan key:generate` to generate a new key for your application.
--   By default the application is setup to use an SQLite database. If you connect a different database, run `php artisan migrate` to run your database migrations.
+-   By default the application is setup to use an SQLite database. Run `php artisan migrate` or `php artisan migrate --seed` to include seed data.
 -   If you run this project locally; run `php artisan serve` and your API application will be available on `http://localhost:8000` by default.
