@@ -15,15 +15,13 @@
     -   Permission policies.
     -   Functional tests.
 
-&nbsp;
-
-### **!! Please keep in mind this is an API only. No frontend is included !!**
+## **!! Please keep in mind this is an API only. No frontend is included !!**
 
 &nbsp;
 
 # **Full API Documentation**
 
-## **Wiki**: https://github.com/Pixel-Fix/pixelscrm-api-documentation/wiki
+## **Wiki**: https://pixelscrm.pixelfix.net.au
 
 &nbsp;
 
@@ -56,6 +54,7 @@
 
 -   Download and unzip the project files in your desired directory.
 -   Rename the `.env.example` to `.env`
+-   Rename the `.env.local` to `.env.backup` or delete `.env.local`
 -   Run `composer install` from within the project directory.
 -   Run `php artisan key:generate` to generate a new key for your application.
 -   By default the application is setup to use an SQLite database. Run `php artisan migrate` or `php artisan migrate --seed` to include seed data.
